@@ -15,6 +15,8 @@ public class ServiceProperties {
     @NotNull // you can also create configurationPropertiesValidator
 	private String name = "Empty";
 
+	private String SECRET_APP="a9s8dy90asyd90f8y a0s9d8fy 90asydf 09asydf980";
+
 	public String getName() {
 		return this.name;
 	}
