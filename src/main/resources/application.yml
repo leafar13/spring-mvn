@@ -54,4 +54,5 @@ logging:
   file: boot_example.log
   org.hibernate: INFO
 
- 
+ #SECRETO para encriptar y desencriptar 
+my.secret: KJBAKOSHJDKJHASKDHOAIS90890890809
